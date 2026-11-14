@@ -8,7 +8,8 @@
   "plugins": [
     {
       "name": "shannon",
-      "source": "./plugins/shannon",
+      "source": "./
+plugins/shannon",
       "description": "Run Shannon white-box pentests of web apps and APIs you are authorized to test, from your coding agent, with safety rules built in."
     }
   ]
